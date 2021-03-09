@@ -36,3 +36,85 @@ You can preview the content here or get the source code here.
 
 Send me an [email](mailto:lachlan@vuejs-course.com). 
 
+## Curriculum
+
+### 1.0 Introduction
+
+Get everything setup and starting writing some tests with Jest.
+
+-    1.1 Installation
+-    1.2 Your First Test
+-    1.3 Adding an Assertion
+-    1.4 Describing and Grouping Tests
+-    1.5 Feedback Loop with Watch Mode
+-   1.6 It.each for Concise Tests
+
+### 2.0 Project: String Calculator
+
+Put the skills learned in section one into practice by completing the String Calculator Kata.
+
+-    2.1 The First Test
+-    2.2 Handling Whitespace
+-    2.3 Throwing an Error
+-    2.4 Testing the Error
+-    2.5 Validating the Test Suite with a Functional Refactor
+-    2.6 Completing the Functional Refactor
+
+### 3.0 Matcher Madness
+
+Do a deep dive into the various matchers Jest provides, from toBe and toEqual to the more exotic resolves and rejects matchers.
+
+  -  3.1 toBe
+  -  3.2 toEqual, not
+  -  3.3 toHaveProperty
+  -  3.4 Resolves matcher for Promises
+  -  3.5 Rejects matcher for Errors
+  -  3.6 toHaveBeenCalled and Mock Functions
+  -  3.7 Waiting with the Done Callback
+
+### 4.0 TypeScript, Node.js and Jest
+
+We introduce TypeScript and Jest by developing and testing a Node.js API. Note: This section assumes basic knowledge of Node.js and Express.
+
+-    4.1 TypeScript and Jest with ts-jest
+-    4.2 Express Setup
+-    4.3 The Jest Lifecylce: Before and After Hooks
+-    4.4 Better Types
+-    4.5 Adding JWT and a Refactor
+-    4.6 Authorization Header
+-    4.7 Testing for Success
+-    4.8 Testing for Failure
+-    4.9 Alternative Failed Assertion Syntax
+-    4.10 Summary
+
+### 5.0 TypeScript, React and Testing in a DOM Environment
+
+Build a toy React app and see how to use TypeScript and Jest for DOM based testing with Testing Library. Note: this section assumes basisc knowledge of React.
+
+-    5.1 Create React App and TypeScript
+-    5.2 Rendering with Testing Library
+-    5.3 Testing Library Assertions - getByText
+-    5.4 useState and Asynchronous Assertions
+-    5.5 Fetchign Data with useEffect
+-    5.6 More Async Behavior with findAll
+-    5.7 Mocking Axios with Jest Mocks
+-    5.8 Toggling Todos
+
+### 6.0 Jest Tips and Tricks
+
+Learn some of Jest's more advanced features. Write your own custom matchers with TypeScript and write more robust, reuseable and (mostly) type-safe mocks.
+
+-    6.1 Section Overview
+-    6.2 Custom Matcher API
+-    6.3 Implementing the Matcher
+-    6.4 Typing the Matcher
+-    6.5 Setting up for Module Mocking
+-    6.6 Inline Mocks Review
+-    6.7 The Problem with Inline Mocks
+-    6.8 Manual Mocks
+-    6.9 Default Module Data
+-    6.10 Typing the Mock Module
+-    6.11 Improving the Spec Types
+-    6.12 Jest Spies
+-    6.13 What Next? More Learning Resources
+
