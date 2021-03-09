@@ -40,7 +40,7 @@ Send me an [email](mailto:lachlan@vuejs-course.com).
 
 ### 1.0 Introduction
 
-Get everything setup and starting writing some tests with Jest.
+Get everything setup and starting writing some tests with Jest. [Source code here](https://github.com/lmiller1990/typing-the-test-suite/tree/master/sections-1-2-3-4-intro-calc-matchers-nodejs/).
 
 -    1.1 Installation
 -    1.2 Your First Test
@@ -51,7 +51,8 @@ Get everything setup and starting writing some tests with Jest.
 
 ### 2.0 Project: String Calculator
 
-Put the skills learned in section one into practice by completing the String Calculator Kata.
+Put the skills learned in section one into practice by completing the String Calculator Kata. [Source code here](https://github.com/lmiller1990/typing-the-test-suite/tree/master/sections-1-2-3-4-intro-calc-matchers-nodejs/).
+
 
 -    2.1 The First Test
 -    2.2 Handling Whitespace
@@ -62,7 +63,8 @@ Put the skills learned in section one into practice by completing the String Cal
 
 ### 3.0 Matcher Madness
 
-Do a deep dive into the various matchers Jest provides, from toBe and toEqual to the more exotic resolves and rejects matchers.
+Do a deep dive into the various matchers Jest provides, from toBe and toEqual to the more exotic resolves and rejects matchers. [Source code here](https://github.com/lmiller1990/typing-the-test-suite/tree/master/sections-1-2-3-4-intro-calc-matchers-nodejs/).
+
 
   -  3.1 toBe
   -  3.2 toEqual, not
@@ -74,7 +76,8 @@ Do a deep dive into the various matchers Jest provides, from toBe and toEqual to
 
 ### 4.0 TypeScript, Node.js and Jest
 
-We introduce TypeScript and Jest by developing and testing a Node.js API. Note: This section assumes basic knowledge of Node.js and Express.
+We introduce TypeScript and Jest by developing and testing a Node.js API. Note: This section assumes basic knowledge of Node.js and Express. [Source code here](https://github.com/lmiller1990/typing-the-test-suite/tree/master/sections-1-2-3-4-intro-calc-matchers-nodejs/).
+
 
 -    4.1 TypeScript and Jest with ts-jest
 -    4.2 Express Setup
