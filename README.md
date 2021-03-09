@@ -92,7 +92,8 @@ We introduce TypeScript and Jest by developing and testing a Node.js API. Note: 
 
 ### 5.0 TypeScript, React and Testing in a DOM Environment
 
-Build a toy React app and see how to use TypeScript and Jest for DOM based testing with Testing Library. Note: this section assumes basisc knowledge of React.
+Build a toy React app and see how to use TypeScript and Jest for DOM based testing with Testing Library. Note: this section assumes basisc knowledge of React. [Source code here](https://github.com/lmiller1990/typing-the-test-suite/tree/master/section-5-react).
+
 
 -    5.1 Create React App and TypeScript
 -    5.2 Rendering with Testing Library
@@ -105,7 +106,8 @@ Build a toy React app and see how to use TypeScript and Jest for DOM based testi
 
 ### 6.0 Jest Tips and Tricks
 
-Learn some of Jest's more advanced features. Write your own custom matchers with TypeScript and write more robust, reuseable and (mostly) type-safe mocks.
+Learn some of Jest's more advanced features. Write your own custom matchers with TypeScript and write more robust, reuseable and (mostly) type-safe mocks. [Source code here](https://github.com/lmiller1990/typing-the-test-suite/tree/master/section-6-jest-advanced).
+
 
 -    6.1 Section Overview
 -    6.2 Custom Matcher API
