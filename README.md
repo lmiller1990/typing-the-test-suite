@@ -1,6 +1,6 @@
 # Typing the Test Suite 
 
-!(banner)[./banner.webp]
+![banner](./banner.webp)
 
 A brisk course on writing tests with Jest and TypeScript.
 
