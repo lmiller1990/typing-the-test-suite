@@ -4,6 +4,8 @@
 
 A brisk course on writing tests with Jest and TypeScript.
 
+Buy it on [Udemy](https://www.udemy.com/course/typing-the-test-suite/?referralCode=3F551717E9BACF56AA52) or [Gumroad](https://gum.co/typing-the-test-suite). Preview some lectures [here](https://vimeo.com/showcase/8245286). Visit the [marketing page](https://lachlan-miller.me/typing-the-test-suite) for purchasing power parity if you live in a lower income region.
+
 ## What is this?
 
 A quick course for intermediate level developers looking to get started with testing using Jest and TypeScript.
@@ -28,11 +30,11 @@ Two ways. You can buy it on Udemy, or you can buy it from me directly via Gumroa
 
 ## How much does it cost?
 
-It costs $15. I support purchasing power parity to make my content affordable to everyone. If this price is unaffordable for you, send me an email and we will make it work.
+It costs $15 on Gumroad or $19 on Udemy. I support purchasing power parity to make my content affordable to everyone. See the start of this document. If this price is unaffordable for you, send me an email and we will make it work.
 
 ## Is there a preview?
 
-You can preview the content here or get the source code here.
+You can [preview the content here](https://vimeo.com/showcase/8245286).
 
 ## I have more questions!
 
